@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **data mining techniques and algorithms (Naive Bayes, Support Vector Machines, Neural Networks,...)**
 
-- 👯 I’m looking to collaborate on **any of the presented projects or open to new ones**
+- 👯 I’m looking to collaborate on **any of the presented projects, or open to new ones**
 
 - 💬 Ask me about **anything statistics related, and I'll be happy to help you out :)**
 
@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aelita5alazar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aelita5alazar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anna salazar belver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anna salazar belver" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anna-salazar-belver-19952b246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anna salazar belver" height="30" width="40" /></a>
 <a href="https://instagram.com/annasalazarb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="annasalazarb" height="30" width="40" /></a>
 </p>
 
